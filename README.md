@@ -19,6 +19,9 @@
    ```
 4. Open the provided URL in a web browser.
 
+## Live Demo
+[Click here to try the app](https://personaldiaryyogesh17082003.streamlit.app/)   
+
 ## File Details
 - **diary.txt**: Stores all diary entries locally.
 
