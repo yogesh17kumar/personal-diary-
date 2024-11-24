@@ -7,7 +7,8 @@
 - **Delete All Entries**: Clear all saved diary entries.
 
 ## Screenshot
-![Personal Diary Screenshot]("C:\Users\Yogesh\Desktop\personal-diary-\Screenshot1.png")
+![Personal Diary Screenshot]![Screenshot1](https://github.com/user-attachments/assets/d406de0f-a1a0-4bba-ab9e-945a1cdbcfad)
+
 
 ## Requirements
 - Python 3.7 or later.
