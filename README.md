@@ -6,6 +6,9 @@
 - **Search Entries**: Search for entries by date or keyword.
 - **Delete All Entries**: Clear all saved diary entries.
 
+## Screenshot
+![Personal Diary Screenshot](assets/Screenshot1.png)
+
 ## Requirements
 - Python 3.7 or later.
 - Streamlit library (`pip install streamlit`).
