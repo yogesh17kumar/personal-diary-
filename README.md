@@ -7,7 +7,7 @@
 - **Delete All Entries**: Clear all saved diary entries.
 
 ## Screenshot
-![Personal Diary Screenshot](assets/Screenshot1.png)
+![Personal Diary Screenshot]("C:\Users\Yogesh\Desktop\personal-diary-\Screenshot1.png")
 
 ## Requirements
 - Python 3.7 or later.
