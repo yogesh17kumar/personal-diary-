@@ -7,8 +7,10 @@
 - **Delete All Entries**: Clear all saved diary entries.
 
 ## Screenshot
-![Personal Diary Screenshot]![Screenshot1](https://github.com/user-attachments/assets/d406de0f-a1a0-4bba-ab9e-945a1cdbcfad)
-
+Personal Diary Screenshot![Screenshot1](https://github.com/user-attachments/assets/d406de0f-a1a0-4bba-ab9e-945a1cdbcfad)
+![Screenshot2](https://github.com/user-attachments/assets/69edf8e0-2399-4d8a-81d3-b86c5984e5ea)
+![Screenshot3](https://github.com/user-attachments/assets/953a15f3-628e-454b-b5c7-3fbdc0383d91)
+![Screenshot4](https://github.com/user-attachments/assets/b77862f2-5ab9-41fb-8ee4-680de7e78d7a)
 
 ## Requirements
 - Python 3.7 or later.
